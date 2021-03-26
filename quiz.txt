@@ -1,0 +1,29 @@
+Q.1 COVID-19 adalah singkatan dari ?
+	option 0: Coronavirus Indonesia - 2019
+	option 1: Corona Desinfektan - 2019
+	option 2: Coronavirus Disease - 2019*
+	option 3: Corona International Disease - 2019
+
+Q.2 Virus corona menyebar melalui ?
+	option 0: batuk, bersin, dan perantara nyamuk
+	option 1: batuk, bersin, dan air liur*
+	option 2: batuk, air liur, dan perantara nyamuk
+	option 3: bersin, air liur, dan perantara nyamuk
+
+Q.3 virus corona dapat menempel di benda-benda sekitar yang kita pegang dapat masuk melalui bagian tubuh kita, kecuali ?
+	option 0: Hidung
+	option 1: Mata
+	option 2: Mulut
+	option 3: Telinga *
+
+Q.4 Cara apa yang dapat menolongmu untuk terhindar dari virus corona ?
+	option 0: dengan sering memegang wajah
+	option 1: jarang menggunakan pembersih cuci tangan/hand sanitizer
+	option 2: dengan menggunakan masker*
+	option 3: dengan menemui banyak orang
+
+Q.5 jarak yang aman untuk kamu berada di sekitar orang yang batuk atau bersin di sekitarmu adalah ?
+	option 0: 1 meter
+	option 1: 0.5 meter
+	option 2: 30 centimeter
+	option 3: 80 centimeter
